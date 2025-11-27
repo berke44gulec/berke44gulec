@@ -10,12 +10,12 @@
 
 ### 👨‍💻 About Me
 
-Hi there! [cite_start]I am a **Computer Engineering** student at **Inonu University** [cite: 28] [cite_start]with a strong foundation in **Linux System Administration** and **DevOps principles**[cite: 4]. [cite_start]I specialize in automating infrastructure, building hybrid **CI/CD pipelines**, and managing cloud resources on **AWS**[cite: 5].
+Hi there! I am a **Computer Engineering** student with a strong foundation in **Linux System Administration** and **DevOps principles**I specialize in automating infrastructure, building hybrid **CI/CD pipelines**, and managing cloud resources on **AWS**.
 
-- [cite_start]🔭 I’m currently working on **Cloud-Native DevOps Pipeline** projects and **Gentoo Linux** optimization[cite: 22, 25].
-- [cite_start]🌱 I’m currently deepening my skills in **Terraform (IaC)**, **Ansible**, and **Docker**[cite: 8].
-- [cite_start]👯 I’m seeking a **long-term internship** to contribute to **scalable system operations**[cite: 6].
-- [cite_start]💬 Ask me about **Linux Kernel**, **Bash Scripting**, or **Network Security**[cite: 9, 11, 26].
+- 🔭 I’m currently working on **Cloud-Native DevOps Pipeline** projects and **Gentoo Linux** optimization.
+- 🌱 I’m currently deepening my skills in **Terraform (IaC)**, **Ansible**, and **Docker**.
+- 👯 I’m seeking a **long-term internship** to contribute to **scalable system operations**.
+- 💬 Ask me about **Linux Kernel**, **Bash Scripting**, or **Network Security**.
 
 ---
 
