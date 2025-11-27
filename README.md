@@ -8,14 +8,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Hi there! I am a **Computer Engineering** student with a strong foundation in **Linux System Administration** and **DevOps principles**I specialize in automating infrastructure, building hybrid **CI/CD pipelines**, and managing cloud resources on **AWS**.
 
-- 🔭 I’m currently working on **Cloud-Native DevOps Pipeline** projects and **Gentoo Linux** optimization.
-- 🌱 I’m currently deepening my skills in **Terraform (IaC)**, **Ansible**, and **Docker**.
-- 👯 I’m seeking a **long-term internship** to contribute to **scalable system operations**.
-- 💬 Ask me about **Linux Kernel**, **Bash Scripting**, or **Network Security**.
+-  I’m currently working on **Cloud-Native DevOps Pipeline** projects and **Gentoo Linux** optimization.
+-  I’m currently deepening my skills in **Terraform (IaC)**, **Ansible**, and **Docker**.
+-  I’m seeking a **long-term internship** to contribute to **scalable system operations**.
+-  Ask me about **Linux Kernel**, **Bash Scripting**, or **Networking**.
 
 ---
 
@@ -34,7 +34,7 @@ Hi there! I am a **Computer Engineering** student with a strong foundation in **
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora-2965CC?style=for-the-badge&logo=fedora&logoColor=white" />
 
 **Monitoring & Tools**
 <br>
@@ -45,7 +45,7 @@ Hi there! I am a **Computer Engineering** student with a strong foundation in **
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=berke44gulec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
@@ -53,14 +53,3 @@ Hi there! I am a **Computer Engineering** student with a strong foundation in **
 </div>
 
 ---
-
-### 📬 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/44bg" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:berke44gulec@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
