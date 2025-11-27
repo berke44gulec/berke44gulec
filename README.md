@@ -45,7 +45,8 @@ Hi there! I am a **Computer Engineering** student with a strong foundation in **
 **Programming**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
 ---
 
 ### GitHub Stats
