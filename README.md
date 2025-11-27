@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Berke+Güleç!;DevOps+Enthusiast;Linux+System+Administrator;Cloud+Engineering+Student" alt="Typing SVG" />
+</div>
 
-<!--
-**berke44gulec/berke44gulec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>☁️ Automating the Future, One Script at a Time</h3>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+Hi there! [cite_start]I am a **Computer Engineering** student at **Inonu University** [cite: 28] [cite_start]with a strong foundation in **Linux System Administration** and **DevOps principles**[cite: 4]. [cite_start]I specialize in automating infrastructure, building hybrid **CI/CD pipelines**, and managing cloud resources on **AWS**[cite: 5].
+
+- [cite_start]🔭 I’m currently working on **Cloud-Native DevOps Pipeline** projects and **Gentoo Linux** optimization[cite: 22, 25].
+- [cite_start]🌱 I’m currently deepening my skills in **Terraform (IaC)**, **Ansible**, and **Docker**[cite: 8].
+- [cite_start]👯 I’m seeking a **long-term internship** to contribute to **scalable system operations**[cite: 6].
+- [cite_start]💬 Ask me about **Linux Kernel**, **Bash Scripting**, or **Network Security**[cite: 9, 11, 26].
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Cloud & DevOps**
+<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+**Linux & System Admin**
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+**Monitoring & Tools**
+<br>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berke44gulec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berke44gulec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+</div>
+
+---
+
+### 📬 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/44bg" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:berke44gulec@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
