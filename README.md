@@ -19,7 +19,7 @@ Hi there! I am a **Computer Engineering** student with a strong foundation in **
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Cloud & DevOps**
 <br>
